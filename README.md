@@ -1,11 +1,37 @@
 # Hello, I'm SONIA PRAGALATHAN
 <a href="https://www.linkedin.com/in/soniapragalathan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-As a detail-oriented and driven cybersecurity professional with a Bachelor's degree in Computer Science and Engineering, I bring a robust skill set and a passion for safeguarding digital assets. My expertise lies in managing and analyzing large datasets, ensuring data integrity, and resolving complex technical challenges with precision.
+Fueled by a strong passion for cybersecurity and backed by a Bachelor's degree in Computer Science and Engineering, I am a detail-oriented professional. 
 
-I am proficient in programming languages such as Python and Java, and have a deep understanding of essential cybersecurity practices. My technical acumen is further demonstrated through my proficiency in Security Information and Event Management (SIEM) systems and tools like Splunk, as well as my knowledge of cybersecurity concepts including firewalls, intrusion detection systems (IDS), intrusion prevention systems (IPS), and cloud security.
+Committed to protecting digital assets and strengthening cybersecurity posture through proactive threat hunting, incident response, and vulnerability detection. I bring hands-on experience in malware analysis using sandbox tools, alongside a strong track record of managing complex investigations, ensuring system integrity, and responding to threats with precision and efficiency
 
-Supported by a strong portfolio of projects and relevant certifications, I am committed to delivering high-quality solutions and working collaboratively with cross-functional teams to drive success. My passion for expanding my knowledge and expertise in cybersecurity fuels my dedication to enhancing data security and protecting digital environments.
+I have hands-on experience with 
+Security Information and Event Management (SIEM)
+1. Microsoft Sentinel 
+2. Wazuh
+3. Rapid7
+4. Seceon
+5. IBM Qradar
+
+Endpoint detection and Response tools
+1. Microsoft Defender
+2. Crowdstrike
+
+Network detection and response tool
+1. Darktrace
+
+Ticketing tools
+1. ServiceNow
+2. Jira
+
+Windows event analysising tools
+1. Chainsaw
+2. DeepBlueCLI
+
+
+My expertise extends across critical cybersecurity areas such as firewalls, IDS/IPS, endpoint detection, malware analysis, incident triaging and response, cloud security, and foundational networking. including tools like Live Forensicator and Thor
+
+Backed by industry-relevant certifications and real-world projects—particularly focused on Wazuh—I thrive in collaborative settings and am always striving to deliver high-impact solutions. My continuous drive for learning helps me stay ahead in the dynamic cybersecurity landscape, as I work to build more secure digital environments.
 
 ## Objective
 
